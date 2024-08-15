@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+ 
+  .login-container {
+   
+
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 330px;
+    height: 300px;
+    margin-top: 25px;
+
+  }
+  .f1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 15px;
+
+  }
+  .f2{
+    color:'rgb(0, 84, 145)';
+    margin-top: 15px;
+    margin-left: 120px;
+   
+  }

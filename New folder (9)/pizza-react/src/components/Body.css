@@ -1,0 +1,5 @@
+.body{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: #c7c4c4;
+}

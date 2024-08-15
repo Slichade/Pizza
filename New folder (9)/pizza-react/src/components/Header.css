@@ -1,0 +1,30 @@
+.header {
+
+    background-color: #005899;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.header-Text {
+    font-size: - 14px;
+    color: white;
+    font-weight: 500;
+}
+
+h4 {
+    color: rgb(12, 9, 9);
+}
+
+h3 {
+    color: rgb(12, 9, 9);
+}
+
+h5 {
+    color: rgb(12, 9, 9);
+}
+
+.headerRight {
+    margin-right: 10px;
+}
